@@ -37,17 +37,17 @@ Then, we will use exploratory data analysis to try and identify key features tha
 
 Then, we will leverage the different kinds of Recommendation Systems we've learned in the past few weeks:
 
-# Rank/Popularity based
+- Rank/Popularity based
 
-# User/User collaborative filtering
+- User/User collaborative filtering
 
-# Item/Item collaborative filtering
+- Item/Item collaborative filtering
 
-# Model Based/Matrix Factorization
+- Model Based/Matrix Factorization
 
-# Clustering based
+- Clustering based
 
-# Content based
+- Content based
 
 We will apply these models to the dataset, evaluate them, and try to identify which one is most effective in recommendation. We will use F1 score, RMSE, precision and recall values to evaluate the models.
 
